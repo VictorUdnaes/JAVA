@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter string");
-        int meters = 0;
         int sum = 0;
         int i = 0;
         String str = scanner.nextLine();
